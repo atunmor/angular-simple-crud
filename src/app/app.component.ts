@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { Employee } from './models/employee';
 
+
 @Component({
   selector: 'app-root',
   standalone: true,
